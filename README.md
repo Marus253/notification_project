@@ -80,7 +80,7 @@ Concepts POO:  Mixins, Héritage multiple, Décorateurs, Descripteurs, Métaclas
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    COUCHE PRÉSENTATION (Frontend)               │
-│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐  │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐   │
 │  │   Templates     │  │   CSS/JS        │  │   Bootstrap     │  │
 │  │   HTML          │  │   Personnalisés │  │   Components    │  │
 │  └─────────────────┘  └─────────────────┘  └─────────────────┘  │
