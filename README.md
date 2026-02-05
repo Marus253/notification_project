@@ -69,15 +69,9 @@ manager.send_alert(type='securite', message='Test intrusion', priority='urgent')
 - Auteur / Équipe : voir l'en-tête du projet ou contacter le responsable pédagogique.
 
 ---
-
-Merci d'utiliser ce projet — dites-moi si vous souhaitez que j'ajoute :
-- une documentation d'API détaillée
-- des exemples d'intégration SMS/Email (faux providers pour tests)
-- une suite de tests automatisés
-```
 Frontend:      HTML5, CSS3, JavaScript (Bootstrap 5.1)
 Backend:       Python 3.9+, Flask 2.3
-Base de données: SQLite (dev) / PostgreSQL (prod)
+Base de données: SQLite (dev) 
 API:           RESTful avec JSON
 Concepts POO:  Mixins, Héritage multiple, Décorateurs, Descripteurs, Métaclasses
 ```
